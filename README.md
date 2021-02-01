@@ -20,9 +20,9 @@ Emulate (replicate) functionality of the physical Enigma machine.
 
 
 
-# Usage (cli)
+# Usage (CLI)
 
-    enigma [ARGS]...
+    enigma-cli [ARGS]...
 
 ## __Input__ 
 |                        |                                                            |
