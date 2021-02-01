@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='yb-enigma',
-    version='1.0.0',
+    version='1.0.1',
     author='Yurii Bliusiuk',
     author_email='ura.blusuk@gmail.com',
     description='Simple Enigma machine emulator',
