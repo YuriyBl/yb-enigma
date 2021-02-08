@@ -1,4 +1,5 @@
 # Enigma
+
 |              |                      |
 | ------------ | -------------------- |
 | __Author:__  | Yurii Bliusiuk       |
@@ -7,7 +8,6 @@
 
 
 <br />
-
 
 # Description
 Emulate (replicate) functionality of the physical Enigma machine.
